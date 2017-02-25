@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <html>
+	<head>
+		<style>
+			img { width: 49%; }
+		</style>
+	</head>
 <body>
 
 <?php
